@@ -1,2 +1,2 @@
-# Projeto_Spring Boot
-Java+Spring
+# Projeto Django_React
+Django+React
